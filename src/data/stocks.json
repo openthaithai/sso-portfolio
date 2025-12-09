@@ -1,0 +1,677 @@
+{
+    "name": "ประกันสังคม",
+    "stocks": [
+        {
+            "symbol": "PTT",
+            "type": "Top100",
+            "volume": 580756026,
+            "value": 18293814819
+        },
+        {
+            "symbol": "SCB",
+            "type": "Top100",
+            "volume": 125249000,
+            "value": 16031872000
+        },
+        {
+            "symbol": "ADVANC",
+            "type": "Top100",
+            "volume": 51114360,
+            "value": 15283193640
+        },
+        {
+            "symbol": "KBANK",
+            "type": "Top100",
+            "volume": 88849945,
+            "value": 14882365788
+        },
+        {
+            "symbol": "SCC",
+            "type": "Top100",
+            "volume": 67758850,
+            "value": 14500393900
+        },
+        {
+            "symbol": "CPALL",
+            "type": "Top100",
+            "volume": 323560719,
+            "value": 14398451996
+        },
+        {
+            "symbol": "BBL",
+            "type": "Top100",
+            "volume": 92377221,
+            "value": 14364657866
+        },
+        {
+            "symbol": "BDMS",
+            "type": "Top100",
+            "volume": 625502700,
+            "value": 13010456160
+        },
+        {
+            "symbol": "AOT",
+            "type": "Top100",
+            "volume": 213276073,
+            "value": 7837895683
+        },
+        {
+            "symbol": "CPN",
+            "type": "Top100",
+            "volume": 143843888,
+            "value": 7767569952
+        },
+        {
+            "symbol": "BCP",
+            "type": "Top100",
+            "volume": 211938311,
+            "value": 6940979685
+        },
+        {
+            "symbol": "PTTEP",
+            "type": "Top100",
+            "volume": 57428985,
+            "value": 6518189798
+        },
+        {
+            "symbol": "CPF",
+            "type": "Top100",
+            "volume": 253674700,
+            "value": 6062825330
+        },
+        {
+            "symbol": "MINT",
+            "type": "Top100",
+            "volume": 181353930,
+            "value": 4334358927
+        },
+        {
+            "symbol": "WHART",
+            "type": "SET",
+            "volume": 465900000,
+            "value": 4262651257
+        },
+        {
+            "symbol": "HMPRO",
+            "type": "Top100",
+            "volume": 566217672,
+            "value": 4076767238
+        },
+        {
+            "symbol": "BH",
+            "type": "Top100",
+            "volume": 21077166,
+            "value": 3762274131
+        },
+        {
+            "symbol": "CRC",
+            "type": "Top100",
+            "volume": 167383092,
+            "value": 3699166333
+        },
+        {
+            "symbol": "FTREIT",
+            "type": "SET",
+            "volume": 369990000,
+            "value": 3552362115
+        },
+        {
+            "symbol": "LH",
+            "type": "Top100",
+            "volume": 731831100,
+            "value": 2868777912
+        },
+        {
+            "symbol": "BJC",
+            "type": "Top100",
+            "volume": 163061200,
+            "value": 2853571000
+        },
+        {
+            "symbol": "AXTRART",
+            "type": "SET",
+            "volume": 244130000,
+            "value": 2757339416
+        },
+        {
+            "symbol": "RATCH",
+            "type": "Top100",
+            "volume": 101870550,
+            "value": 2750504850
+        },
+        {
+            "symbol": "DIF",
+            "type": "SET",
+            "volume": 333640000,
+            "value": 2737438206
+        },
+        {
+            "symbol": "EGCO",
+            "type": "Top100",
+            "volume": 23093900,
+            "value": 2701986300
+        },
+        {
+            "symbol": "BEM",
+            "type": "Top100",
+            "volume": 483768234,
+            "value": 2588160052
+        },
+        {
+            "symbol": "GPSC",
+            "type": "Top100",
+            "volume": 59417649,
+            "value": 2495541258
+        },
+        {
+            "symbol": "CPNREIT",
+            "type": "SET",
+            "volume": 208690000,
+            "value": 2336027259
+        },
+        {
+            "symbol": "IVL",
+            "type": "Top100",
+            "volume": 100243180,
+            "value": 2195325642
+        },
+        {
+            "symbol": "PTTGC",
+            "type": "Top100",
+            "volume": 74440651,
+            "value": 1954067089
+        },
+        {
+            "symbol": "DELTA",
+            "type": "Top100",
+            "volume": 10403700,
+            "value": 1560555000
+        },
+        {
+            "symbol": "TU",
+            "type": "Top100",
+            "volume": 124917608,
+            "value": 1523994818
+        },
+        {
+            "symbol": "BTS",
+            "type": "Top100",
+            "volume": 465254200,
+            "value": 1516728692
+        },
+        {
+            "symbol": "TOP",
+            "type": "Top100",
+            "volume": 43604015,
+            "value": 1417130488
+        },
+        {
+            "symbol": "SCGP",
+            "type": "Top100",
+            "volume": 76533186,
+            "value": 1324024118
+        },
+        {
+            "symbol": "GULF",
+            "type": "Top100",
+            "volume": 25848803,
+            "value": 1234280343
+        },
+        {
+            "symbol": "IMPACT",
+            "type": "SET",
+            "volume": 123240000,
+            "value": 1231957500
+        },
+        {
+            "symbol": "BCH",
+            "type": "Top100",
+            "volume": 91014384,
+            "value": 1219592746
+        },
+        {
+            "symbol": "TFFIF",
+            "type": "SET",
+            "volume": 157790000,
+            "value": 945990000
+        },
+        {
+            "symbol": "MTC",
+            "type": "Top100",
+            "volume": 24951916,
+            "value": 941934829
+        },
+        {
+            "symbol": "KTB",
+            "type": "Top100",
+            "volume": 37195264,
+            "value": 922442547
+        },
+        {
+            "symbol": "OR",
+            "type": "Top100",
+            "volume": 68257211,
+            "value": 887343743
+        },
+        {
+            "symbol": "DREIT",
+            "type": "SET",
+            "volume": 180830000,
+            "value": 856954791
+        },
+        {
+            "symbol": "TISCO",
+            "type": "Top100",
+            "volume": 8322830,
+            "value": 840605830
+        },
+        {
+            "symbol": "LHSC",
+            "type": "SET",
+            "volume": 55330000,
+            "value": 630652561.9
+        },
+        {
+            "symbol": "BTSGIF",
+            "type": "SET",
+            "volume": 243820000,
+            "value": 609187000
+        },
+        {
+            "symbol": "SPALI",
+            "type": "Top100",
+            "volume": 38426930,
+            "value": 584089336
+        },
+        {
+            "symbol": "BGRIM",
+            "type": "Top100",
+            "volume": 44299300,
+            "value": 575890900
+        },
+        {
+            "symbol": "GLOBAL",
+            "type": "Top100",
+            "volume": 82459990,
+            "value": 519497937
+        },
+        {
+            "symbol": "ALLY",
+            "type": "SET",
+            "volume": 114870000,
+            "value": 512261060.4
+        },
+        {
+            "symbol": "TRUE",
+            "type": "Top100",
+            "volume": 42780600,
+            "value": 504811080
+        },
+        {
+            "symbol": "CPTREIT",
+            "type": "SET",
+            "volume": 99680000,
+            "value": 470573144
+        },
+        {
+            "symbol": "M",
+            "type": "Top100",
+            "volume": 18963500,
+            "value": 420989700
+        },
+        {
+            "symbol": "IRPC",
+            "type": "Top100",
+            "volume": 404536400,
+            "value": 416672492
+        },
+        {
+            "symbol": "SIRIPRT",
+            "type": "SET",
+            "volume": 46820000,
+            "value": 390930300
+        },
+        {
+            "symbol": "FUTURERT",
+            "type": "SET",
+            "volume": 39640000,
+            "value": 356503898.5
+        },
+        {
+            "symbol": "GVREIT",
+            "type": "SET",
+            "volume": 55970000,
+            "value": 347055912
+        },
+        {
+            "symbol": "WHABT",
+            "type": "SET",
+            "volume": 55020000,
+            "value": 335651280
+        },
+        {
+            "symbol": "SRIPANWA",
+            "type": "SET",
+            "volume": 63130000,
+            "value": 310571441.9
+        },
+        {
+            "symbol": "BOFFICE",
+            "type": "SET",
+            "volume": 64350000,
+            "value": 310130584.2
+        },
+        {
+            "symbol": "TIDLOR",
+            "type": "Top100",
+            "volume": 16421772,
+            "value": 308729314
+        },
+        {
+            "symbol": "WHA",
+            "type": "Top100",
+            "volume": 80227700,
+            "value": 288819720
+        },
+        {
+            "symbol": "PSH",
+            "type": "Top100",
+            "volume": 62223100,
+            "value": 256359172
+        },
+        {
+            "symbol": "ITC",
+            "type": "Top100",
+            "volume": 15392300,
+            "value": 227806040
+        },
+        {
+            "symbol": "GAHREIT",
+            "type": "SET",
+            "volume": 37880000,
+            "value": 208300950
+        },
+        {
+            "symbol": "SAWAD",
+            "type": "Top100",
+            "volume": 7805970,
+            "value": 201003728
+        },
+        {
+            "symbol": "AIMIRT",
+            "type": "SET",
+            "volume": 18160000,
+            "value": 175815918.1
+        },
+        {
+            "symbol": "CBG",
+            "type": "Top100",
+            "volume": 3312800,
+            "value": 168124600
+        },
+        {
+            "symbol": "BCPG",
+            "type": "Top100",
+            "volume": 19733134,
+            "value": 167731639
+        },
+        {
+            "symbol": "CK",
+            "type": "Top100",
+            "volume": 11598600,
+            "value": 167019840
+        },
+        {
+            "symbol": "TPRIME",
+            "type": "SET",
+            "volume": 25370000,
+            "value": 162235200
+        },
+        {
+            "symbol": "AMATA",
+            "type": "Top100",
+            "volume": 9511200,
+            "value": 152179200
+        },
+        {
+            "symbol": "SPRIME",
+            "type": "SET",
+            "volume": 45120000,
+            "value": 148901775
+        },
+        {
+            "symbol": "B-WORK",
+            "type": "SET",
+            "volume": 33330000,
+            "value": 145360307.2
+        },
+        {
+            "symbol": "COM7",
+            "type": "Top100",
+            "volume": 5185900,
+            "value": 132240450
+        },
+        {
+            "symbol": "SJWD",
+            "type": "Top100",
+            "volume": 12588100,
+            "value": 127139810
+        },
+        {
+            "symbol": "HANA",
+            "type": "Top100",
+            "volume": 4787600,
+            "value": 118732480
+        },
+        {
+            "symbol": "TTB",
+            "type": "Top100",
+            "volume": 62153500,
+            "value": 118713185
+        },
+        {
+            "symbol": "LPN",
+            "type": "Top100",
+            "volume": 66616600,
+            "value": 114580552
+        },
+        {
+            "symbol": "KTC",
+            "type": "Top100",
+            "volume": 4086500,
+            "value": 112378750
+        },
+        {
+            "symbol": "QH",
+            "type": "Top100",
+            "volume": 78500000,
+            "value": 109115000
+        },
+        {
+            "symbol": "MAJOR",
+            "type": "Top100",
+            "volume": 12801700,
+            "value": 102413600
+        },
+        {
+            "symbol": "BPP",
+            "type": "Top100",
+            "volume": 11679700,
+            "value": 101613390
+        },
+        {
+            "symbol": "BRRGIF",
+            "type": "SET",
+            "volume": 25070000,
+            "value": 96230400
+        },
+        {
+            "symbol": "OSP",
+            "type": "Top100",
+            "volume": 5774400,
+            "value": 95277600
+        },
+        {
+            "symbol": "KPNREIT",
+            "type": "SET",
+            "volume": 37950000,
+            "value": 82717920
+        },
+        {
+            "symbol": "MBK",
+            "type": "Top100",
+            "volume": 4496000,
+            "value": 79129600
+        },
+        {
+            "symbol": "PRM",
+            "type": "Top100",
+            "volume": 11739400,
+            "value": 71610340
+        },
+        {
+            "symbol": "SKY",
+            "type": "Top100",
+            "volume": 4827100,
+            "value": 69510240
+        },
+        {
+            "symbol": "CCET",
+            "type": "Top100",
+            "volume": 11759300,
+            "value": 68791905
+        },
+        {
+            "symbol": "AAI",
+            "type": "Top100",
+            "volume": 14143700,
+            "value": 68738382
+        },
+        {
+            "symbol": "KCE",
+            "type": "Top100",
+            "volume": 2586900,
+            "value": 66612675
+        },
+        {
+            "symbol": "CPAXT",
+            "type": "Top100",
+            "volume": 3240700,
+            "value": 59952950
+        },
+        {
+            "symbol": "BEC",
+            "type": "Top100",
+            "volume": 24168600,
+            "value": 51720804
+        },
+        {
+            "symbol": "SAV",
+            "type": "Top100",
+            "volume": 4202800,
+            "value": 49593040
+        },
+        {
+            "symbol": "FORTH",
+            "type": "Top100",
+            "volume": 5970100,
+            "value": 40596680
+        },
+        {
+            "symbol": "WHAUP",
+            "type": "Top100",
+            "volume": 10283000,
+            "value": 38047100
+        },
+        {
+            "symbol": "CREDIT",
+            "type": "Top100",
+            "volume": 2206800,
+            "value": 37294920
+        },
+        {
+            "symbol": "STA",
+            "type": "Top100",
+            "volume": 2968300,
+            "value": 35619600
+        },
+        {
+            "symbol": "MEGA",
+            "type": "Top100",
+            "volume": 1190900,
+            "value": 33642925
+        },
+        {
+            "symbol": "SYNEX",
+            "type": "Top100",
+            "volume": 2849100,
+            "value": 33334470
+        },
+        {
+            "symbol": "PLAT",
+            "type": "Top100",
+            "volume": 28000000,
+            "value": 31360000
+        },
+        {
+            "symbol": "BA",
+            "type": "Top100",
+            "volume": 2260300,
+            "value": 30514050
+        },
+        {
+            "symbol": "CHG",
+            "type": "Top100",
+            "volume": 18173900,
+            "value": 29078240
+        },
+        {
+            "symbol": "AP",
+            "type": "Top100",
+            "volume": 3358800,
+            "value": 25023060
+        },
+        {
+            "symbol": "DOHOME",
+            "type": "Top100",
+            "volume": 6438377,
+            "value": 22920622
+        },
+        {
+            "symbol": "MASTER",
+            "type": "Top100",
+            "volume": 1562000,
+            "value": 19212600
+        },
+        {
+            "symbol": "SAFE",
+            "type": "Top100",
+            "volume": 2369800,
+            "value": 17062560
+        },
+        {
+            "symbol": "SNNP",
+            "type": "Top100",
+            "volume": 1540000,
+            "value": 15092000
+        },
+        {
+            "symbol": "EA",
+            "type": "Top100",
+            "volume": 5664900,
+            "value": 14502144
+        },
+        {
+            "symbol": "PLANB",
+            "type": "Top100",
+            "volume": 3126300,
+            "value": 14380980
+        },
+        {
+            "symbol": "AAV",
+            "type": "Top100",
+            "volume": 8391600,
+            "value": 10489500
+        }
+    ]
+}

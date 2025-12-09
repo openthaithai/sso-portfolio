@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Anakotmai';
+    src: url('@/assets/fonts/anakotmai-bold.woff2') format('woff2'),
+         url('@/assets/fonts/anakotmai-bold.woff') format('woff');
+    font-weight: bold;
+}
+  
+@font-face {
+    font-family: 'Anakotmai';
+    src: url('@/assets/fonts/anakotmai-light.woff2') format('woff2'),
+         url('@/assets/fonts/anakotmai-light.woff') format('woff');
+    font-weight: 300;
+}
+  
+@font-face {
+    font-family: 'Anakotmai';
+    src: url('@/assets/fonts/anakotmai-medium.woff2') format('woff2'),
+         url('@/assets/fonts/anakotmai-medium.woff') format('woff');
+    font-weight: 500;
+}
+  
