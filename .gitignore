@@ -76,4 +76,5 @@ Thumbs.db
 *.avi
 *.flv
 *.mov
-*.wmv
+*.wmv.env
+*.env
